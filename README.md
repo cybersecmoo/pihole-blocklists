@@ -17,4 +17,5 @@ Also note that some of these may be out-of-date. If you're relying on any of the
 |`fireeye-apt34.list`|https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html|Iran state APT|5| 
 |`fireeye-apt33.txt`|https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html|Iran state APT|15| 
 |`fireeye-apt41.txt`|https://content.fireeye.com/apt-41/rpt-apt41/|China state APT|26| 
-|`fireeye-apt28.txt`|https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-apt28.pdf|Russia state APT|26| 
+|`fireeye-apt28.txt`|https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-apt28.pdf|Russia state APT|13|
+|`fireeye-apt32.txt`|https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html|Vietnam state APT|46| 
