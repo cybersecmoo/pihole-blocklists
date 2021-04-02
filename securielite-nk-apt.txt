@@ -1,8 +1,3 @@
-# Author: cow-co/sci-cow/cybersecmoo
-
-# Source: hxxps://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/
-# North-Korean state APT targeting security researchers.
-
 securielite.com
 bestwing.org
 codebiogblog.com
